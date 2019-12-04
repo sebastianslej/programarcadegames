@@ -1,6 +1,4 @@
 # 1. Write a line of code that will print your name.
-import a as a
-import push as push
 
 print("sebastian Slej")
 # 2. How do you enter a comment in a program?
@@ -129,7 +127,3 @@ print(x)
 # value = int(input(print("Enter your age")))
 
 # Answer: !??!
-
-git commit -a -m "Added stuff"
-
-git push
